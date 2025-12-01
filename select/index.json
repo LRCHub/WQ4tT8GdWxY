@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Nada Nada",
+  "base_artist": "Jmilton、Mc Jhey",
+  "createdAt": "2025-12-01T16:01:38.208712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nada Nada (feat. Chawki)",
+      "artist": "Dystinct",
+      "has_synced": true,
+      "path": "select/01_Nada_Nada_(feat._Chawki)_Dystinct.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nada Nada (feat. شوقي)",
+      "artist": "DYSTINCT",
+      "has_synced": true,
+      "path": "select/02_Nada_Nada_(feat._شوقي)_DYSTINCT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "Ana Gabriela",
+      "has_synced": true,
+      "path": "select/03_Nada_Nada_Ana_Gabriela.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nada-Nada Cinta",
+      "artist": "Rossa",
+      "has_synced": true,
+      "path": "select/04_Nada-Nada_Cinta_Rossa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nada, Nada, Nada",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/05_Nada,_Nada,_Nada_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "Avial",
+      "has_synced": false,
+      "path": "select/06_Nada_Nada_Avial.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "AgroPlay feat. Léo & Raphael",
+      "has_synced": true,
+      "path": "select/07_Nada_Nada_AgroPlay_feat._Léo_&_Raphael.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "AgroPlay/Léo & Raphael",
+      "has_synced": true,
+      "path": "select/08_Nada_Nada_AgroPlay_Léo_&_Raphael.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nada Nada (Ao Vivo)",
+      "artist": "Henrique & Juliano",
+      "has_synced": true,
+      "path": "select/09_Nada_Nada_(Ao_Vivo)_Henrique_&_Juliano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "Dystinct",
+      "has_synced": true,
+      "path": "select/10_Nada_Nada_Dystinct.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nada-Nada Cinta",
+      "artist": "Rossa",
+      "has_synced": true,
+      "path": "select/11_Nada-Nada_Cinta_Rossa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nada Nada",
+      "artist": "Dystinct & Chawki",
+      "has_synced": true,
+      "path": "select/12_Nada_Nada_Dystinct_&_Chawki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nada nada",
+      "artist": "Henrique & Juliano",
+      "has_synced": true,
+      "path": "select/13_Nada_nada_Henrique_&_Juliano.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nada nada nada nada",
+      "artist": "Conan Osíris",
+      "has_synced": true,
+      "path": "select/14_Nada_nada_nada_nada_Conan_Osíris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NADA, NADA",
+      "artist": "Big Rush",
+      "has_synced": true,
+      "path": "select/15_NADA,_NADA_Big_Rush.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nada, nada, nada",
+      "artist": "Cola Jet Set",
+      "has_synced": true,
+      "path": "select/16_Nada,_nada,_nada_Cola_Jet_Set.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "o contrrio de nada  nada",
+      "artist": "os mutantes",
+      "has_synced": true,
+      "path": "select/17_o_contrrio_de_nada_nada_os_mutantes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nada Nada",
+      "artist": "Jmilton, Mc Jhey",
+      "has_synced": false,
+      "path": "select/pl_01_Nada_Nada_Jmilton,_Mc_Jhey.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Nada Nada",
+      "artist": "Jmilton, Mc Jhey",
+      "has_synced": false,
+      "path": "select/pl_02_Nada_Nada_Jmilton,_Mc_Jhey.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Nada, Nada, Nada",
+      "artist": "Jmilton, Mc Jhey",
+      "has_synced": false,
+      "path": "select/pl_03_Nada,_Nada,_Nada_Jmilton,_Mc_Jhey.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Nada, Nada De Ti",
+      "artist": "Jmilton, Mc Jhey",
+      "has_synced": false,
+      "path": "select/pl_04_Nada,_Nada_De_Ti_Jmilton,_Mc_Jhey.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Nada nada",
+      "artist": "Jmilton, Mc Jhey",
+      "has_synced": false,
+      "path": "select/pl_05_Nada_nada_Jmilton,_Mc_Jhey.txt"
+    }
+  ]
+}
